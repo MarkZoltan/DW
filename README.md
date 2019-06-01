@@ -28,4 +28,5 @@ If you don't yet have Git, and don't want/need/like it, just download the reposi
 ## Build the project using Gradle Wrapper
 
 Run `$ gradlew build` (under U*nixes) or `> gradlew.bat build` (under Windows) to build the project. This will
- download Gradle (if not already on your system) and will build the project.
+ download Gradle (if not already on your system) and will build the project. 
+
